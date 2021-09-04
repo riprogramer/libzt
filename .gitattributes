@@ -1,6 +1,3 @@
-examples export-ignore
-ports export-ignore
-test export-ignore
 
 ext/lwip-contrib/apps export-ignore
 ext/lwip-contrib/addons export-ignore
